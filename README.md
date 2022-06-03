@@ -16,4 +16,7 @@ Soporte SMO Helpdesk:
 -Consultas bases de datos
 
 ##
-En caso de querer contactarte conmigo, encuentrame en la web...
+¿Quieres contactarte conmigo? Encuéntrame en la web...
+<div>
+  <a href="https://www.linkedin.com/in/lautaro-di-lacio-a76181202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
