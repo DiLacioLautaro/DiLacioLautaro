@@ -2,7 +2,7 @@
 
 Desarrollador de software, intrigado al futuro y bien encaminado a lo que realmente me gusta.
 
-🌱 Estudiante de Ciencias de la computacion en la Universidad De Buenos Aires
+📚 Estudiante de Ciencias de la computacion en la Universidad De Buenos Aires
 
 
 ## Actualmente me encuentro trabajando...
