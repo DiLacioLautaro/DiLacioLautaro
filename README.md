@@ -17,6 +17,9 @@ Soporte SMO Helpdesk:
 
 ## Lenguajes y Frameworks que utilizo:
 <div style="display: incline_block"> <br>
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
   <img align="center" alt="Dila-C" height="30", width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg"">
   <img align="center" alt="Dila-C#" height="30", width="40" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Dila-C#" height="30", width="40" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
