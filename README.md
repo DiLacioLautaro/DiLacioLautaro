@@ -1,4 +1,4 @@
-## Hola!! Soy Lautaro Di Lacio 👋
+# Hola!! Soy Lautaro Di Lacio 👋
 
 Desarrollador de software, intrigado al futuro y bien encaminado a lo que realmente me gusta.
 
