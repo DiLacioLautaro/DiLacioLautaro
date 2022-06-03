@@ -5,7 +5,7 @@ Desarrollador de software, intrigado al futuro y bien encaminado a lo que realme
 📚 Estudiante de Ciencias de la computacion en la Universidad De Buenos Aires
 
 
-## Actualmente Me encuentro trabajando...
+## Actualmente me encuentro trabajando...
 Como soporte tecnico de aplicaciones en Voolkia. 
 
 <img align="center" alt="Voolkia" height="150" width="150" src="https://media-exp1.licdn.com/dms/image/C4E0BAQF0dBAkykwrCg/company-logo_200_200/0/1519902917174?e=2147483647&v=beta&t=_X52dN62M8kEoERWZkh1kPsjf-bV3p7N0NPbpO9IhJM">
