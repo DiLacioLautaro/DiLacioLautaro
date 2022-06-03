@@ -18,7 +18,7 @@ Soporte SMO Helpdesk:
 ## Lenguajes y Frameworks que utilizo:
 <div style="display: incline_block"> <br>
   
-  <img align="center" alt="Dila-angularjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Dila-angularjs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   </div>
  
 ##
