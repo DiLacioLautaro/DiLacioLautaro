@@ -5,7 +5,7 @@ Desarrollador de software, intrigado al futuro y bien encaminado a lo que realme
 📚 Estudiante de Ciencias de la computacion en la Universidad De Buenos Aires
 
 
-## Actualmente me encuentro trabajando...
+## Actualmente Mm encuentro trabajando...
 Como soporte tecnico de aplicaciones en Voolkia. 
 
 <img align="center" alt="Voolkia" height="150" width="150" src="https://media-exp1.licdn.com/dms/image/C4E0BAQF0dBAkykwrCg/company-logo_200_200/0/1519902917174?e=2147483647&v=beta&t=_X52dN62M8kEoERWZkh1kPsjf-bV3p7N0NPbpO9IhJM">
@@ -17,7 +17,7 @@ Soporte SMO Helpdesk:
 > ##### Control de métricas.
 > ##### Consultas bases de datos
 
-##  Herramientas que utilizo:
+## Algunas herramientas que utilizo:
 <div style="display: incline_block"> <br>
   <img align="center" alt="Dila-c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Dila-c#" height="35" width="45" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
