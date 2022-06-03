@@ -15,7 +15,7 @@ En donde mi tarea se encarga de gestionar un mantenimiento de servicios dentro d
 Soporte SMO Helpdesk:
 > ##### Análisis y resolución de casos mediante Scripts
 > ##### Control de métricas.
-> #####Consultas bases de datos
+> ##### Consultas bases de datos
 
 ##  Herramientas que utilizo:
 <div style="display: incline_block"> <br>
