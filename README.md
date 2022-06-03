@@ -18,7 +18,7 @@ Soporte SMO Helpdesk:
 ## Lenguajes y Frameworks que utilizo:
 <div style="display: incline_block"> <br>
   
-  <img align="center" alt="Dila-TypeScript" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Dila-angularjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   </div>
  
 ##
