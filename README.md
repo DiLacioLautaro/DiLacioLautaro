@@ -7,15 +7,9 @@ Desarrollador de software, intrigado al futuro y bien encaminado a lo que realme
 
 ## Actualmente me encuentro trabajando...
 Como developer Full-Stack en Baufest. 
-
 <img align="center" alt="Baufest" height="150" width="150" src="https://baufest.com/wp-content/uploads/2021/10/logo_baufest.jpg">
 
-En donde mi tarea se encarga de gestionar un mantenimiento de servicios dentro del sector de mercado envíos para la empresa de Mercado Libre.
-
-Soporte SMO Helpdesk:
-> ##### Análisis y resolución de casos mediante Scripts
-> ##### Control de métricas.
-> ##### Consultas bases de datos
+En donde mi tarea se encarga en el desarrollo y mantenimiento de aplicaciones en tecnologia .NET (C#) para empresa de retail, para gention y mantenimiento de productos de premios y alianzas con otras empresas con gestion de puntos y vencimientos
 
 ## Algunas herramientas que utilizo:
 
