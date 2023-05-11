@@ -8,7 +8,7 @@ Desarrollador de software, intrigado al futuro y bien encaminado a lo que realme
 ## Actualmente me encuentro trabajando...
 Como developer Full-Stack en Baufest. 
 
-<img align="center" alt="Baufest" height="150" width="150" src="https://media-exp1.licdn.com/dms/image/C4E0BAQF0dBAkykwrCg/company-logo_200_200/0/1519902917174?e=2147483647&v=beta&t=_X52dN62M8kEoERWZkh1kPsjf-bV3p7N0NPbpO9IhJM](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fbaufestglobalok%2F&psig=AOvVaw1IRUgmjZefT1HLeUjISM1E&ust=1683867367518000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCNj_S87P4CFQAAAAAdAAAAABAE)">
+<img align="center" alt="Baufest" height="150" width="150" src="https://baufest.com/wp-content/uploads/2021/10/logo_baufest.jpg">
 
 En donde mi tarea se encarga de gestionar un mantenimiento de servicios dentro del sector de mercado envíos para la empresa de Mercado Libre.
 
