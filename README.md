@@ -9,9 +9,19 @@ Desarrollador de software, intrigado al futuro y bien encaminado a lo que realme
 Como developer Full-Stack en Baufest. 
 <img align="center" alt="Baufest" height="150" width="150" src="https://baufest.com/wp-content/uploads/2021/10/logo_baufest.jpg">
 
-En donde mi tarea se encarga en el desarrollo y mantenimiento de aplicaciones en tecnologia .NET (C#) para empresa de retail, para gention y mantenimiento de productos de premios y alianzas con otras empresas con gestion de puntos y vencimientos
+En donde mi tarea se basa en el desarrollo y mantenimiento de aplicaciones en tecnología .NET (C#) para una empresa de reta
 
-## Algunas herramientas que utilizo:
+🔧 Proyectos Actuales:
+
+Proyecto Cencosud - Fidelidad (Marzo a Septiembre):
+
+ *Desarrollo exclusivo en .NET para la gestión integral de programas de fidelidad y premios en el sector retail.
+ *Implementación y mantenimiento de sistemas en tecnología .NET para gestionar productos de premios, alianzas con otras empresas, y control de puntos y vencimientos.
+
+Proyecto Cencosud - Logística (Octubre hasta la actualidad):
+
+ *Desarrollo y mantenimiento de aplicaciones en tecnología Fox Pro (7.0/9.0) y .NET para optimizar procesos logísticos en el área de retail.
+ *Gestión de tareas logísticas, incluyendo abastecimiento de locales, transferencias de mercaderías, control de stock, facturación, reportes y pedidos web.
 
 <div style="display: incline_block"> <br>
   <img align="center" alt="Dila-c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -35,8 +45,12 @@ En donde mi tarea se encarga en el desarrollo y mantenimiento de aplicaciones en
   <img align="center" alt="Dila-groovy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg">
   <img align="center" alt="Dila-arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="Dila-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </div>
- 
+  <img align="center" alt="Dila-visualfoxpro" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualfoxpro/visualfoxpro-original.svg">
+  <img align="center" alt="Dila-entityframework" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Dila-postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+  <img align="center" alt="Dila-junit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg">
+</div>
+
 ##
 ¿Quieres contactarte conmigo? Encuéntrame en la web...
 <div>
