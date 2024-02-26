@@ -49,7 +49,7 @@ Proyecto Cencosud - Logística (Octubre hasta la actualidad):
   <img align="center" alt="Dila-visualfoxpro" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Foxpro-icon.png">
   <img align="center" alt="Dila-entityframework" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Dila-postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-  <img align="center" alt="Dila-junit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg">
+  <img align="center" alt="NUnit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nunit/nunit-original.svg">
 </div>
 
 ##
