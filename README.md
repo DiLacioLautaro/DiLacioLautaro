@@ -49,7 +49,7 @@ Proyecto Cencosud - Logística (Octubre hasta la actualidad):
   <img align="center" alt="Dila-visualfoxpro" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Foxpro-icon.png">
   <img align="center" alt="Dila-entityframework" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Dila-postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-<img align="center" alt="NUnit" height="40" width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pluralsight.com%2Fpaths%2Fc-unit-testing-with-nunit&psig=AOvVaw3EI4rFnILgMpBU19Oa93D5&ust=1709055197455000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC5oPHEyYQDFQAAAAAdAAAAABAJ">
+<img align="center" alt="NUnit" height="40" width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pluralsight.com%2Fpaths%2Fc-unit-testing-with-nunit&psig=AOvVaw3EI4rFnILgMpBU19Oa93D5&ust=1709055197455000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC5oPHEyYQDFQAAAAAdAAAAABAJ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnunit.org%2F&psig=AOvVaw3EI4rFnILgMpBU19Oa93D5&ust=1709055197455000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC5oPHEyYQDFQAAAAAdAAAAABAT)">
 </div>
 
 ##
