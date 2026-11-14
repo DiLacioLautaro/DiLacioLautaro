@@ -11,7 +11,7 @@ Más de 5 años en IT y más de 3 años y medio como desarrollador, en sistemas 
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | [SousChef](https://github.com/DiLacioLautaro/souschef) | Plataforma en producción para reposteras: un asistente atiende por WhatsApp, Instagram y Messenger y una app gestiona pedidos, producción y cobros. [souschefvirtual.com](https://souschefvirtual.com) | Flutter, Supabase, PostgreSQL, TypeScript, LLMs (Claude, Gemini, Groq), MercadoPago |
-| [Golden Classic](https://github.com/DiLacioLautaro/golden-classic-app) | Plataforma de posing para culturismo clásico, en desarrollo. La visión por computadora corre en el teléfono: la foto nunca sale del dispositivo. | TypeScript, MediaPipe, Next.js, Fastify, Docker |
+| [Golden Classic](https://github.com/DiLacioLautaro/golden-classic-app) | Plataforma de seguimiento físico para culturismo, en desarrollo: ayuda a atletas y preparadores a medir y comparar el cambio del cuerpo en el tiempo y a practicar posing. El análisis corre en el teléfono: la foto nunca sale del dispositivo. | TypeScript, MediaPipe, Next.js, Fastify, Docker |
 | [Portfolio](https://github.com/DiLacioLautaro/portfolio) | Sitio personal, hecho en HTML, CSS y JavaScript sin frameworks. | HTML, CSS, JavaScript |
 
 ## Experiencia
