@@ -23,6 +23,7 @@ Más de 5 años en IT y más de 3 años y medio como desarrollador, en sistemas 
 ## Stack
 
 - **Backend:** C#, .NET 8, ASP.NET Core, .NET Framework, ASP.NET MVC, Web API / APIs RESTful, Entity Framework, SQL Server, T-SQL
+- **Bases de datos:** SQL Server, PostgreSQL, MySQL, MongoDB
 - **Frontend:** Angular, AngularJS, TypeScript, JavaScript, React, Vue.js, HTML, CSS
 - **Prácticas:** Patrones de Diseño, SOLID, pruebas unitarias (NUnit), code review, Git, Scrum
 - **Proyectos propios:** Flutter, Supabase, PostgreSQL, Next.js, Fastify, Docker, GitHub Actions, integración de LLMs
