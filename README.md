@@ -1,6 +1,6 @@
 # Lautaro Di Lacio
 
-**Desarrollador Full Stack .NET** · +3,5 años en desarrollo .NET · C#, .NET 8, SQL Server, Angular, TypeScript
+**Desarrollador Full Stack .NET** · +5 años en IT · C#, .NET 8, SQL Server, Angular, TypeScript
 
 Más de 5 años en IT y más de 3 años y medio como desarrollador, en sistemas de retail, logística y ERP. Foco en backend y optimización de consultas T-SQL. Uso IA aplicada al desarrollo (Claude Code) para acelerar implementación, revisión y QA, validando cada cambio con pruebas.
 
