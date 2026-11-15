@@ -10,11 +10,11 @@ Más de 5 años en IT y más de 3 años y medio como desarrollador, en sistemas 
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| [SousChef](https://souschefvirtual.com) | Plataforma en producción para reposteras: un asistente atiende por WhatsApp, Instagram y Messenger y una app gestiona pedidos, producción y cobros. [souschefvirtual.com](https://souschefvirtual.com) | Flutter, Supabase, PostgreSQL, TypeScript, LLMs (Claude, Gemini, Groq), MercadoPago |
+| [SousChef](https://github.com/DiLacioLautaro/souschef-virtual) | Plataforma en producción para reposteras: un asistente atiende por WhatsApp, Instagram y Messenger y una app gestiona pedidos, producción y cobros. [souschefvirtual.com](https://souschefvirtual.com) | Flutter, Supabase, PostgreSQL, TypeScript, LLMs (Claude, Gemini, Groq), MercadoPago |
 | [Golden Classic](https://github.com/DiLacioLautaro/golden-classic) | Plataforma de progreso físico y posing para culturismo clásico, en fase de pruebas. Mide el cuerpo y la pose con la cámara del teléfono y muestra la evolución; quien no posa analiza fotos de su galería y sigue su progreso con cinta; el preparador recibe un panel que le dice a quién atender. La imagen nunca sale del dispositivo. | TypeScript, React, Next.js, Fastify, PostgreSQL, MediaPipe |
 | [Portfolio](https://github.com/DiLacioLautaro/portfolio) | Sitio personal, hecho en HTML, CSS y JavaScript sin frameworks. | HTML, CSS, JavaScript |
 
-El código de SousChef y de Golden Classic es privado; lo muestro a pedido en procesos de selección.
+El código de SousChef y de Golden Classic es privado. Cada link lleva a la presentación del proyecto, con arquitectura, decisiones de diseño y capturas; el código lo muestro a pedido en procesos de selección.
 
 ## Experiencia
 
