@@ -22,11 +22,13 @@ Más de 5 años en IT y más de 3 años y medio como desarrollador, en sistemas 
 
 ## Stack
 
-- **Backend:** C#, .NET 8, ASP.NET Core, .NET Framework, ASP.NET MVC, Web API / APIs RESTful, Entity Framework, SQL Server, T-SQL
+- **Lenguajes:** C#, SQL / T-SQL, TypeScript, JavaScript, Visual Basic .NET, Visual FoxPro, Java, Python, Groovy, Dart
+- **Backend:** .NET 8, ASP.NET Core, .NET Core, .NET Framework, ASP.NET MVC, ASP.NET Razor, Web API / APIs RESTful, Entity Framework
 - **Bases de datos:** SQL Server, PostgreSQL, MySQL, MongoDB
-- **Frontend:** Angular, AngularJS, TypeScript, JavaScript, React, Vue.js, HTML, CSS
-- **Prácticas:** Patrones de Diseño, SOLID, pruebas unitarias (NUnit), code review, Git, Scrum
-- **Proyectos propios:** Flutter, Supabase, PostgreSQL, Next.js, Fastify, Docker, GitHub Actions, integración de LLMs
+- **Frontend:** Angular, AngularJS, Angular Material, React, Vue.js, Bootstrap, HTML, CSS
+- **Prácticas:** Patrones de Diseño, SOLID, Clean Architecture, Microservicios, pruebas unitarias (NUnit), code review, Scrum
+- **Herramientas:** Git, GitLab, GitHub Actions, Docker, Postman, Insomnia, Jira, Confluence
+- **Proyectos propios:** Flutter, Supabase, Node.js, Next.js, Fastify, Drizzle, MediaPipe, integración de LLMs
 
 ## Primeros proyectos
 
